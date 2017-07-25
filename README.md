@@ -1,0 +1,2 @@
+hugo-site-manager
+==
